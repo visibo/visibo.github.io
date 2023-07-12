@@ -26,8 +26,8 @@ export const menuList = {
                             "More than 6.8 M": 2657
                         }
                     },
-                    "Verified by Jiji_VSB_RADIO": {
-                        "Verified by Jiji": 710,
+                    "Verified_VSB_RADIO": {
+                        "Verified": 710,
                         "Not verified": 52435
                     },
                     "Make_VSB_RADIO": {
@@ -105,7 +105,7 @@ export const menuList = {
                     "Condition_VSB_CHECKBOX": {
                         "Brand New": 133,
                         "Foreign Used": 32972,
-                        "Kenyan Used": 20035
+                        "Local Used": 20035
                     },
                     "Second Condition_VSB_CHECKBOX": {
                         "After crash": 20,
@@ -341,7 +341,7 @@ export const menuList = {
                     "Condition_VSB_CHECKBOX": {
                         "Brand New": 77,
                         "Foreign Used": 1009,
-                        "Kenyan Used": 1312
+                        "Local Used": 1312
                     }
                 }
             },
@@ -364,7 +364,7 @@ export const menuList = {
                         "Brand New": 686,
                         "Damaged": 1,
                         "Foreign Used": 172,
-                        "Kenyan Used": 313
+                        "Local Used": 313
                     },
                     "Type_VSB_RADIO": {
                         "Tractors": 555,
@@ -566,7 +566,7 @@ export const menuList = {
                     "Condition_VSB_CHECKBOX": {
                         "Brand New": 207,
                         "Foreign Used": 74,
-                        "Kenyan Used": 1531
+                        "Local Used": 1531
                     },
                     "Type_VSB_CHECKBOX": {
                         "Cruiser": 70,
