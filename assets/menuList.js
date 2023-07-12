@@ -8074,113 +8074,7 @@ export const menuList = {
                     }
                 }
             },
-            "Sexual Wellness": {
-                "numAds": 1648,
-                "link": "/assets/art/attributes/categories/beauty/sexual-welness.png",
-                "pageLink": "/sexual-wellness",
-                "filters": {
-                    "Price_VSB_RADIO": {
-                        "currency": "KSh",
-                        "filters": {
-                            "Under 800": 108,
-                            "800  - 1.5 K": 433,
-                            "1.5 - 3.8 K": 723,
-                            "3.8 - 7.6 K": 451,
-                            "More than 7.6 K": 90
-                        }
-                    },
-                    "Brand_VSB_CHECKBOX": {
-                        "A&G": 42,
-                        "Bad Kitty": 19,
-                        "Classic Erotica": 70,
-                        "Love": 188,
-                        "Lovense": 14,
-                        "Abreva": 1,
-                        "Aichun Beauty": 10,
-                        "AMOUR": 10,
-                        "Apollo": 1,
-                        "B Swish": 3,
-                        "Baile": 2,
-                        "Beano": 1,
-                        "Best Herb": 1,
-                        "BlissJoy": 3,
-                        "Bodywand": 2,
-                        "Butterfly": 2,
-                        "Carejoy": 2,
-                        "Classics": 3,
-                        "Crystal": 1,
-                        "CURVE": 12,
-                        "Double Root": 1,
-                        "Durex": 7,
-                        "Everhealthy": 1,
-                        "Fantasy": 1,
-                        "Fetish": 2,
-                        "Fifty Shades of Grey": 1,
-                        "Fun Factory": 2,
-                        "Icon": 1,
-                        "Kheper Games": 2,
-                        "King": 3,
-                        "LELO": 1,
-                        "Lovebotz": 1,
-                        "LoveLife": 1,
-                        "Max Man": 1,
-                        "Mk": 2,
-                        "No-Name": 3,
-                        "Now": 1,
-                        "Oriflame": 1,
-                        "pjur": 1,
-                        "Pure Romance": 1,
-                        "Satisfyer": 1,
-                        "Savvy": 1,
-                        "Secret": 2,
-                        "SexFlesh": 1,
-                        "Sextreme": 5,
-                        "STUD": 5,
-                        "Toyz4lovers": 1,
-                        "Ultra": 1,
-                        "Wet": 2,
-                        "Wins Town": 8,
-                        "XOXO": 1,
-                        "Yoni": 1,
-                        "Other": 895
-                    },
-                    "Type_VSB_RADIO": {
-                        "Sexual Supplements": 421,
-                        "Vibrators": 256,
-                        "Massage Cream & Oils": 131,
-                        "Fertility Supplements": 51,
-                        "Dildos": 39,
-                        "Anal Sex Toys": 33,
-                        "Better Sex for Her": 30,
-                        "Better Sex for Him": 28,
-                        "Blindfolds, Masks & Gags": 7,
-                        "Bondage": 23,
-                        "Bondage for Beginners": 5,
-                        "Breast Enhancer": 9,
-                        "Breast Stimulator": 1,
-                        "Butt Plugs": 7,
-                        "Cock & Ball Toys": 4,
-                        "Cock Rings": 21,
-                        "Condoms": 16,
-                        "Contraception": 2,
-                        "Fetish Clothing": 2,
-                        "Handcuffs & Restraints": 5,
-                        "Intimate Hygiene": 13,
-                        "Love Eggs & Jiggle Balls": 3,
-                        "Lubricants": 32,
-                        "Male Sex Toys": 25,
-                        "Nipple & Clitoral Toys": 23,
-                        "Sex Machine": 3,
-                        "Sex Swings & Machines": 1,
-                        "Sex Toys for Couples": 11,
-                        "Sexual Duration Products": 21,
-                        "Sexy Gifts & Games": 23,
-                        "Spankers & Ticklers": 3,
-                        "Strap-Ons": 12,
-                        "Other": 213
-                    }
-                }
-            },
+            
             "Skincare": {
                 "numAds": 4397,
                 "link": "/assets/art/attributes/categories/beauty/skin-care.png",
@@ -15213,7 +15107,62 @@ export const menuList = {
                 "numAds": 3450,
                 "link": "/assets/art/attributes/categories/babies/children-gear-and-safety.png",
                 "pageLink": "/childrens-gear-and-safety",
-                "filters": {}
+                "filters": {
+                    "Price_VSB_RADIO": {
+                        "currency": "KSh",
+                        "filters": {
+                            "Under 1.2 K": 366,
+                            "1.2 - 3.5 K": 1465,
+                            "3.5 - 9.5 K": 2442,
+                            "9.5 - 17 K": 1526,
+                            "More than 17 K": 305
+                        }
+                    },
+                    "Type_VSB_RADIO": {
+                        "Baby Monitors": 57,
+                        "Bouncers & Swings": 402,
+                        "Car Seats": 1029,
+                        "Carriers": 414,
+                        "Feeding Chair": 363,
+                        "Mosquito Nets": 122,
+                        "Playpens": 313,
+                        "Skating & Bicycle Gear": 173,
+                        "Swimming Gear": 48,
+                        "Walkers": 1364,
+                        "Other": 1279
+                    },
+                    "Condition_VSB_RADIO": {
+                        "Brand New": 5807,
+                        "Used": 80
+                    },
+                    "Gender_VSB_CHECKBOX": {
+                        "Boy": 22,
+                        "Girl": 26,
+                        "Unisex": 3415
+                    },
+                    "Age_VSB_CHECKBOX": {
+                        "Any": 1582,
+                        "8 - 11 Months": 255,
+                        "4 - 7 Months": 137,
+                        "24 Months & Up": 237,
+                        "12 - 23 Months": 79,
+                        "0 - 3 Months": 91
+                    },
+                    "Color_VSB_CHECKBOX": {
+                        "Black": 370,
+                        "Blue": 818,
+                        "Brown": 115,
+                        "Gold": 17,
+                        "Green": 339,
+                        "Grey": 429,
+                        "Other": 836,
+                        "Pink": 599,
+                        "Red": 436,
+                        "Silver": 16,
+                        "White": 225,
+                        "Yellow": 98
+                    }
+                }
             },
             "Children's Shoes": {
                 "numAds": 1834,
