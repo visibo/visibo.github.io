@@ -1,1 +1,0 @@
-import{a,b as c,_ as s}from"./page.581f7a92.js";import{H as p,r,o as u,c as l,O as t,N as _}from"./entry.9862fb2e.js";import"./QScrollObserver.07f2ca5f.js";const h=p({__name:"default",setup(m){return r(!1),(f,d)=>{const e=a,o=c,n=s;return u(),l(n,{view:"hHh lpR fFf"},{default:t(()=>[_(o,{class:"body-text body-color"},{default:t(()=>[_(e)]),_:1})]),_:1})}}});export{h as default};
